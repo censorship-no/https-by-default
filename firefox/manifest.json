@@ -20,7 +20,7 @@
     "options_ui": {
         "page": "options.html"
     },
-    "applications": {
+    "browser_specific_settings": {
         "gecko": {
             "strict_min_version": "57.0a1",
             "id": "https-by-default@robwu.nl"
