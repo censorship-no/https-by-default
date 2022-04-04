@@ -3,6 +3,9 @@
     "description": "Request websites over secure https by default from the location bar instead of insecure http. Exceptions can be added at the add-on's preferences page (to not use HTTPS by default for some sites).",
     "version": "0.4.5",
     "manifest_version": 2,
+    "icons": {
+        "48": "icon.png"
+    },
     "background": {
         "scripts": ["background.js"]
     },
